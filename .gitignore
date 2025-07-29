@@ -1,0 +1,8 @@
+# Fichier d'environnement local
+.env
+
+# Fichiers et dossiers générés par l'application
+database/
+docs/
+__pycache__/
+*.pyc
