@@ -4,13 +4,13 @@ Une application web de démonstration pour un pipeline de données (ETL) interac
 
 ---
 
-### 🚀 Contexte du Projet
+### Contexte du Projet
 
 Ce projet a été réalisé dans le cadre de mon admission à une formation de **Data Engineer**. L'objectif était de démontrer la maîtrise des étapes fondamentales d'un pipeline de données.
 
 **Analizor** est donc une démonstration technique de ce processus de bout en bout : récupérer des données brutes de sources externes, les nettoyer et les structurer, les charger dans une base de données, puis les analyser pour en extraire des informations pertinentes.
 
-### 🛠️ À propos de cette démo interactive
+### À propos de cette démo interactive
 
 Cette application web a été créée pour rendre ce processus technique visible et interactif. Plutôt que de simplement exécuter un script en arrière-plan, l'interface vous guide à travers chaque étape du pipeline, vous permettant de voir les données évoluer en temps réel.
 
@@ -30,7 +30,7 @@ Le pipeline se déroule en 4 étapes contrôlées par l'utilisateur :
 
 ---
 
-### ⚙️ Technologies Utilisées
+### Technologies Utilisées
 
 * **Langage :** Python
 * **Analyse de Données :** Pandas
